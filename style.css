@@ -1,0 +1,21 @@
+.container{
+    margin-top: 530px;
+}
+.border{
+    background-color: white;
+}
+.data2{
+margin-top: 80px;
+}
+.data2 h2{
+font-weight: 500;font-family: 'Times New Roman', Times, serif; font-size:xx-large;
+}
+.data2 span {
+ font-weight:  700;font-family:Georgia, 'Times New Roman', Times, serif;font-size: xx-large;
+}
+.data{
+    margin-left: 0px; margin-right: 0px;
+}
+.data2 img{
+    border-radius: 10px; border: 2px solid rgb(233, 177, 72);
+}
