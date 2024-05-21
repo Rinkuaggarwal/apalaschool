@@ -1,21 +1,181 @@
-.container{
-    margin-top: 530px;
-}
-.border{
+
+.border {
     background-color: white;
 }
-.data2{
-margin-top: 80px;
+
+.data2 {
+    margin-top: 80px;
 }
-.data2 h2{
-font-weight: 500;font-family: 'Times New Roman', Times, serif; font-size:xx-large;
+
+.data2 h2 {
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
 }
+
 .data2 span {
- font-weight:  700;font-family:Georgia, 'Times New Roman', Times, serif;font-size: xx-large;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
 }
-.data{
-    margin-left: 0px; margin-right: 0px;
+
+.data {
+    margin-left: 0px;
+    margin-right: 0px;
 }
-.data2 img{
-    border-radius: 10px; border: 2px solid rgb(233, 177, 72);
+
+.data2 img {
+    border-radius: 10px;
+    border: 2px solid rgb(233, 177, 72);
+}
+
+.contain {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.bor1 {
+    border: 1.5px solid rgb(206, 202, 202);
+}
+
+.bor2 {
+    border: 1.5px solid rgb(206, 202, 202);
+}
+
+.bor3 {
+    border: 1.5px solid rgb(206, 202, 202);
+}
+
+.bor1 h2 {
+    background-color: orange;
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    height: 50px;
+}
+
+.bor1 h2 i {
+
+    color: rgb(6, 6, 17);
+
+    margin-left: 15px;
+    font-size: larger;
+    margin-top: 6px;
+
+}
+
+.bor2 h2 {
+    background-color: orange;
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    height: 50px;
+}
+
+.bor2 h2 i {
+
+    color: rgb(6, 6, 17);
+
+    margin-left: 15px;
+    font-size: larger;
+    margin-top: 6px;
+
+}
+
+.bor3 h2 {
+    background-color: orange;
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    height: 50px;
+}
+
+.bor3 h2 i {
+
+    color: rgb(6, 6, 17);
+
+    margin-left: 15px;
+    font-size: larger;
+    margin-top: 6px;
+
+}
+
+.box1 {
+    background-color: rgb(186, 216, 206);
+}
+
+.box2 {
+    background-color: rgb(186, 216, 206);
+}
+
+.box3 {
+    background-color: rgb(186, 216, 206);
+}
+
+#cor {
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#cor p {
+    margin-bottom: 400px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(249, 251, 252)
+}
+
+#cor h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(249, 251, 252)
+}
+
+#cor img {
+    height: 600px;
+}
+
+.container5 h3 {
+    text-align: center;
+}
+
+.container5 p {
+    text-align: center;
+}
+
+.container5 {
+    margin-top: 50px;
+}
+
+#test {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.test1 i {
+    color: white;
+    background-color: rgb(243, 177, 55);
+    width: 25px;
+    height: 25px;
+}
+
+.cardimg1 i {
+    border: 2px solid rgb(223, 222, 222);
+    border-radius: 50%;
+    font-size: 50px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(224, 224, 224); 
+    display: flex;align-items: center; justify-content: center;
+    margin-top: 25px;
+    color: rgb(37, 37, 37);
+}
+.cardimg2 i {
+    border: 2px solid rgb(223, 222, 222);
+    border-radius: 50%;
+    font-size: 50px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(224, 224, 224); 
+    display: flex;align-items: center; justify-content: center;
+    margin-top: 25px;
+    color: rgb(37, 37, 37);
 }
