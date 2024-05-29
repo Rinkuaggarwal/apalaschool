@@ -1,0 +1,79 @@
+
+.footer{
+    background-color: black;color: white;  margin-top: 50px;
+}
+.foot1{
+    padding: 70px; font-weight: 600; font-size: 15px;
+}
+.foot2{
+    padding: 70px; font-weight: 600; font-size: 18px;
+}
+.line{
+    color: orange; font-weight: 800;
+}
+.foot3{
+    padding: 70px; font-weight: 600; font-size: 18px;
+}
+.add{
+    color: rgb(153, 148, 148); font-weight: 100; font-size: 15px; margin-top: 20px;
+}
+.add i{
+    font-size: 15px; padding: 10px; 
+}
+.num{
+    color: rgb(153, 148, 148); font-weight: 100; font-size: 15px; margin-top: 20px;
+}
+.num i{
+    font-size: 18px; padding: 3px 0px 0px 10px
+}
+.hme{
+    color: rgb(153, 148, 148); font-weight: 100; font-size: 15px; margin-top: 20px; 
+}
+.hme i{
+    font-size: 18px; padding: 3px 0px 0px 15px
+}
+.hme:hover{
+    color: rgb(240, 186, 86);
+}
+
+.tc{
+    color: rgb(153, 148, 148); font-weight: 100; font-size: 15px; margin-top: 20px; 
+}
+.tc i{
+    font-size: 18px; padding: 3px 0px 0px 15px
+}
+.tc:hover{
+    color: rgb(240, 186, 86) ;
+}
+
+.abt{
+    color: rgb(153, 148, 148); font-weight: 100; font-size: 15px; margin-top: 20px; 
+}
+.abt i{
+    font-size: 18px; padding: 3px 0px 0px 15px  
+}
+.abt:hover{
+    color: rgb(240, 186, 86) ;
+}
+
+.cnt{
+    color: rgb(153, 148, 148); font-weight: 100; font-size: 15px; margin-top: 20px; 
+}
+.cnt i{  
+    font-size: 18px; padding: 3px 0px 0px 15px 
+}
+.cnt:hover{
+    color: rgb(240, 186, 86);
+}
+.map{
+    margin-left: 40px; margin-top:-30px
+}
+.copyright{
+    background-color: grey;  color: rgb(221, 212, 212); padding: 5px; 
+}
+.copyright span{
+    margin-left: 750px; color: rgb(221, 212, 212);
+}
+.copyright span a {
+    color:rgb(221, 212, 212);
+}
