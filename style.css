@@ -1,3 +1,4 @@
+
 .border {
     background-color: rgb(243, 240, 240);
 }
@@ -300,7 +301,7 @@
     background-color: rgb(238, 92, 92); transform: scale(1.1);
 }
 .footer{
-    background-color: black;color: white;  margin-top: 50px;
+     background-color: black;color: white;  margin-top: 50px; 
 }
 .foot1{
     padding: 70px; font-weight: 600; font-size: 15px;
@@ -312,7 +313,7 @@
     color: orange; font-weight: 800;
 }
 .foot3{
-    padding: 70px; font-weight: 600; font-size: 18px;
+     padding: 70px; font-weight: 600; font-size: 18px; 
 }
 .add{
     color: rgb(153, 148, 148); font-weight: 100; font-size: 15px; margin-top: 20px;
@@ -324,16 +325,19 @@
     color: rgb(153, 148, 148); font-weight: 100; font-size: 15px; margin-top: 20px;
 }
 .num i{
-    font-size: 18px; padding: 3px 0px 0px 10px
+    font-size: 18px; padding: 3px 0px 0px 10px;
 }
-.hme{
-    color: rgb(153, 148, 148); font-weight: 100; font-size: 15px; margin-top: 20px; 
+.hme a{
+     color: rgb(153, 148, 148); font-weight: 100; font-size: 15px
 }
 .hme i{
-    font-size: 18px; padding: 3px 0px 0px 15px
+    font-size: 18px; padding: 3px 0px 0px 15px; color: rgb(153, 148, 148)
 }
-.hme:hover{
-    color: rgb(240, 186, 86);
+.hme:hover a{
+   text-decoration: none; color:rgb(240, 186, 86); ;
+}
+.hme:hover i{
+     color: rgb(240, 186, 86);
 }
 
 .tc{
