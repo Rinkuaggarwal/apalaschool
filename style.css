@@ -327,6 +327,9 @@
 .num i{
     font-size: 18px; padding: 3px 0px 0px 10px;
 }
+.hme{
+    margin-top: 20px;
+}
 .hme a{
      color: rgb(153, 148, 148); font-weight: 100; font-size: 15px
 }
@@ -340,44 +343,51 @@
      color: rgb(240, 186, 86);
 }
 
-.tc{
+.tc a{
     color: rgb(153, 148, 148); font-weight: 100; font-size: 15px; margin-top: 20px; 
 }
 .tc i{
     font-size: 18px; padding: 3px 0px 0px 15px
 }
-.tc:hover{
+.tc:hover a{
     color: rgb(240, 186, 86) ;
 }
-
+.tc:hover i{
+    color: rgb(240, 186, 86) ;
+}
 .abt{
+    margin-top: 5px;
+}
+.abt a{
     color: rgb(153, 148, 148); font-weight: 100; font-size: 15px; margin-top: 20px; 
 }
 .abt i{
-    font-size: 18px; padding: 3px 0px 0px 15px  
+    font-size: 18px; padding: 3px 0px 0px 15px  ; color: rgb(153, 148, 148)
 }
-.abt:hover{
-    color: rgb(240, 186, 86) ;
+.abt:hover a{
+    text-decoration: none; color: rgb(240, 186, 86) ;
 }
+.abt:hover i{    color: rgb(240, 186, 86) ;
 
+}
 .cnt{
+    margin-top: 5px;
+}
+.cnt a{
     color: rgb(153, 148, 148); font-weight: 100; font-size: 15px; margin-top: 20px; 
 }
 .cnt i{  
-    font-size: 18px; padding: 3px 0px 0px 15px 
+    font-size: 18px; padding: 3px 0px 0px 15px ; color: rgb(153, 148, 148)
 }
-.cnt:hover{
+.cnt:hover a{
+    text-decoration: none; color: rgb(240, 186, 86);
+}
+.cnt:hover i{
     color: rgb(240, 186, 86);
 }
 .map{
     margin-left: 40px; margin-top:-30px
 }
-.copyright{
-    background-color: grey;  color: rgb(221, 212, 212); padding: 5px; 
-}
-.copyright span{
-    margin-left: 750px; color: rgb(221, 212, 212);
-}
-.copyright span a {
-    color:rgb(221, 212, 212);
+.copy{
+    background-color: rgb(163, 159, 159); color: beige;
 }
